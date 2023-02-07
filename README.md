@@ -18,10 +18,10 @@ E o pulo do personagem.
 
 ![jump](https://user-images.githubusercontent.com/124682941/217358291-7143c76a-42fb-4c89-8d64-e4f9f558370d.gif)
 
-
-
- Nota-se ao pular, que é um pulo complexo, e parametrizavel; 
+ Nota-se ao pular, que é um pulo complexo, e parametrizável; 
  
- Tem uma altura mínima,e uma máxima, sendo que ao passar da altura mínima a força do pulo é decrementada de maneira progressiva (quanto mais tempo estver segurando espaço mais fraco se torna o impulso), de maneira que ao atingir seu pico e entrar em queda, sua gravidade é aumentada para dar a dinâmica de pulo desejada com base em jogos de plataforma.
+ ![jump_code](https://user-images.githubusercontent.com/124682941/217384847-b74432c8-c3c2-4997-8360-30bba50648b1.PNG)
+ 
+ Tem uma altura mínima, e uma máxima, sendo que ao passar da altura mínima a força do pulo é decrementada de maneira progressiva (quanto mais tempo estver segurando espaço mais fraco se torna o impulso), de maneira que ao atingir seu pico e entrar em queda, sua gravidade é aumentada para dar a dinâmica de pulo desejada com base em jogos de plataforma.
  
  As animação do pulo é composta por 4 etapas, ao pular, ao ficar no ar na subida, queda e aterrissagem.
